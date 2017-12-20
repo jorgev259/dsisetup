@@ -48,8 +48,9 @@
         "url":"https://jerbear64.github.io/twlguide/files/install-1.4-USA.nfs",
         "steps":[
             {
-                "type": "extractFile",
-                "path": "DSi SD Card files"
+                "type":"addFile",
+                "file":"install-1.4-USA.nfs",
+                "path":"DSi SD Card files"
             }
         ]
     },
@@ -59,8 +60,9 @@
         "url":"https://jerbear64.github.io/twlguide/files/install-1.4-EUR.nfs",
         "steps":[
             {
-                "type": "extractFile",
-                "path": "DSi SD Card files"
+                "type":"addFile",
+                "file":"install-1.4-EUR.nfs",
+                "path":"DSi SD Card files"
             }
         ]
     },
