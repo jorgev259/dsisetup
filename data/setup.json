@@ -12,7 +12,7 @@
 
     "twlnf":{
         "type":"direct",
-        "url":"https://rikumax25.github.io/dsisetup/localFiles/twlnf.zip",
+        "url":"https://rikumax25.github.io/dsisetup/raw/master/localFiles/twlnf.zip",
         "steps":[
             {
                 "type": "extractFile",
